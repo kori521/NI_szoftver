@@ -26,7 +26,7 @@ namespace LibAdmin
         internal MainViewModel model;
         public MainWindow()
         {
-            InitializeComponent();      
+            InitializeComponent();
         }
 
         private void asd_Click(object sender, RoutedEventArgs e)
