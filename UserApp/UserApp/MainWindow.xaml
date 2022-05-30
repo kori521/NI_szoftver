@@ -5,8 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:UserApp"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="UserApp" Height="450" Width="800">
+    <Frame x:Name="FrameContent">
+    </Frame>
+    <!--<Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+        <TextBlock Text="Bejelentkezés" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <Button Content="Bejelentkezés" Grid.Row="4" Style="{StaticResource ButtonStyle}" Click="Button_Click" Command="{Binding LoginButtonCommand}"/>
+    </Grid>-->
 </Window>

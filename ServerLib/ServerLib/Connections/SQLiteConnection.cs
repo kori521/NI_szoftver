@@ -25,10 +25,12 @@ namespace ServerLib.Connections
                 await _connection.CreateTableAsync<Users>();
                 //var obj = new Library
                 //{
-                //    id = 0,
-                //    cim = "test1",
-                //    szoveg = "smol",
+                //    id = 2,
+                //    cim = "faszom",
+                //    iro = "kicsi",
+                //    oldalszam = 600,
                 //};
+                //await _connection.InsertAsync(obj);
                 //for (int i = 3; i < 6; i++)
                 //{
                 //    obj.id = i;
@@ -48,7 +50,6 @@ namespace ServerLib.Connections
            _connection.Table<Users>().ToListAsync();
 
         public Task<List<Booking>> GetBooking() =>
-           _connection.Table<Booking>().OrderBy(x => x.return_date).ToListAsync();
-
+           _connection.Table<Booking>().OrderBy(x => x.return_date).ToListAsync();   
     }
 }

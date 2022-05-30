@@ -12,6 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using UserApp.Connection;
+using UserApp.View;
+using UserApp.ViewModel;
 
 namespace UserApp
 {
@@ -20,9 +23,25 @@ namespace UserApp
     /// </summary>
     public partial class MainWindow : Window
     {
+        private LibraryViewModel model = new LibraryViewModel();
         public MainWindow()
         {
             InitializeComponent();
+            Locator.Initialize();
+            InitializeServerRepository();
+            //FrameContent.Navigate(new LibraryView(model));
+        }
+
+        private static async void InitializeServerRepository()
+        {
+            ServerConnectionRepository connectRepo = Locator.Resolve<ServerConnectionRepository>();
+            await connectRepo.StartClient();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            //FrameContent.Navigate(new LibraryView());
         }
     }
+
 }

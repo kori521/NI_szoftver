@@ -52,8 +52,8 @@ namespace ServerLib.Connections
 
                 byte[] msg = Encoding.ASCII.GetBytes(data);
                 handler.Send(msg);
-                handler.Shutdown(SocketShutdown.Both);
-                handler.Close();
+                //handler.Shutdown(SocketShutdown.Both);
+                //handler.Close();
             }
             catch (Exception e)
             {
