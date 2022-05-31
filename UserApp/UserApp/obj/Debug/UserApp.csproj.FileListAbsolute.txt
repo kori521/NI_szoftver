@@ -27,3 +27,10 @@ C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\UserApp.csproj.CopyComplete
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\UserApp.exe
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\UserApp.pdb
+C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\bin\Debug\Prism.dll
+C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\bin\Debug\Prism.pdb
+C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\bin\Debug\Prism.xml
+C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\View\BooksView.g.cs
+C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\View\MyBookingsView.g.cs
+C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\View\BooksView.baml
+C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\View\MyBookingsView.baml

@@ -5,9 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:UserApp"
         mc:Ignorable="d"
-        Title="UserApp" Height="450" Width="800">
-    <Frame x:Name="FrameContent">
-    </Frame>
+        Title="{Binding Path=Content.Title, ElementName=_mainFrame}"
+        Height="450" Width="800"
+        >
+    <DockPanel>
+        <Frame x:Name="_mainFrame">
+        </Frame>
+    </DockPanel>
+
     <!--<Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="*"/>

@@ -9,7 +9,23 @@
       Title="LibraryView">
 
     <Grid>
-        <TextBlock Text="Fasz"/>
-        <Button Command="{Binding ButtonCommand}"/>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="80"/>
+
+        </Grid.RowDefinitions>
+        <Button Width="100" Height="30" VerticalAlignment="Top" HorizontalAlignment="Left" Content="Vissza" Command="{x:Static NavigationCommands.BrowseBack}" IsEnabled="True"/>
+        <TextBlock Text="Bejelentkezés" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="25"/>
+        <TextBlock Text="Vezeteknév"  Grid.Row="1" Padding="0,20,0,20" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="220,0,0,0"/>
+        <TextBlock Text="Keresztnév"  Grid.Row="2" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="220,0,0,0"/>
+        <TextBox Grid.Row="1" Style="{StaticResource TextBoxStyle}" x:Name="vezeteknev"/>
+        <TextBox Grid.Row="2" Style="{StaticResource TextBoxStyle}" x:Name="keresztnev"/>
+
+        <Button Content="Bejelentkezés" Grid.Row="3" Style="{StaticResource ButtonStyle}" Command="{Binding LoginButtonCommand}"/>
+        <Button Content="Könyvek" Grid.Row="4" Style="{StaticResource ButtonStyle}" Command="{Binding LibraryButtonCommand}"/>
+
     </Grid>
 </Page>

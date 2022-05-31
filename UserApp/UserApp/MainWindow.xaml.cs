@@ -30,6 +30,7 @@ namespace UserApp
             Locator.Initialize();
             InitializeServerRepository();
             //FrameContent.Navigate(new LibraryView(model));
+            Button_Click(null, null);
         }
 
         private static async void InitializeServerRepository()
@@ -40,7 +41,8 @@ namespace UserApp
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            //FrameContent.Navigate(new LibraryView());
+            _mainFrame.Navigate(new LibraryView(model));
+            
         }
     }
 

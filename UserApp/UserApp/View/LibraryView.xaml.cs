@@ -15,12 +15,17 @@ namespace UserApp.View
     /// </summary>
     public partial class LibraryView : Page
     {
-        private LibraryViewModel model;
+        public LibraryViewModel model;
         public LibraryView(LibraryViewModel model)
         {
             InitializeComponent();
             this.model = model;
+            this.DataContext = model;
             
+        }
+        public void callnextpage()
+        {
+            this.NavigationService.Navigate(new BooksView());
         }
     }
 }
