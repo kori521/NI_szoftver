@@ -1,18 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "MyWlkGHvSNnRIiQer/u0Kdnyjh6Jch5M/X6jgifSReWILoSHKgviP3jd22b7rw/W45NAs0pJjGM0XfR5Dg/BEw==",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Kornél Molnár\\Documents\\GitHub\\NI_szoftver\\ServerLib\\ServerLib\\ServerLib.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Kornél Molnár\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
-    "C:\\Users\\Kornél Molnár\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\Kornél Molnár\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
-    "C:\\Users\\Kornél Molnár\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
-    "C:\\Users\\Kornél Molnár\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
-    "C:\\Users\\Kornél Molnár\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
-    "C:\\Users\\Kornél Molnár\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
-    "C:\\Users\\Kornél Molnár\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
-    "C:\\Users\\Kornél Molnár\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
-  ],
-  "logs": []
+  "dgSpecHash": "C4eD1PNTgeaZ1QEC5+7aH7ikNx2voRKgbSnDQo0rAStw8rH70qbJM4bKaKFYcm2S2UjeV8dQQo1HwxWvIILfBA==",
+  "success": false,
+  "projectFilePath": "D:\\c# prog new\\ServerLib\\ServerLib\\ServerLib.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "sqlite-net-pcl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    }
+  ]
 }

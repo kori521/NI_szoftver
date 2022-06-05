@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\LibAdmin",
+    "\\LibAdmin\\LibAdmin",
+    "\\ServerLib",
+    "\\ServerLib\\ServerLib",
+    "\\ServerLib\\ServerLib\\Model",
+    "\\UserApp",
+    "\\UserApp\\UserApp",
+    "\\UserApp\\UserApp\\Connection"
+  ],
+  "PreviewInSolutionExplorer": false
+}

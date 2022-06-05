@@ -41,3 +41,47 @@ C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\LibAdmin\LibAdmin\bin\Debu
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\LibAdmin\LibAdmin\bin\Debug\MvvmHelpers.pdb
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\LibAdmin\LibAdmin\bin\Debug\MvvmHelpers.xml
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\LibAdmin\LibAdmin\bin\Debug\System.ValueTuple.xml
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\LibAdmin.exe.config
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\LibAdmin.exe
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\LibAdmin.pdb
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\MvvmHelpers.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\System.Management.Automation.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\System.ValueTuple.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Xamarin.Forms.Core.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Xamarin.Forms.Platform.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Microsoft.Management.Infrastructure.dll
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\MvvmHelpers.pdb
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\MvvmHelpers.xml
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\System.Management.Automation.xml
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\System.ValueTuple.xml
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Xamarin.Forms.Core.pdb
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Xamarin.Forms.Core.xml
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\c# prog new\LibAdmin\LibAdmin\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin.csproj.AssemblyReference.cache
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin.csproj.SuggestedBindingRedirects.cache
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\MainWindow.baml
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\MainWindow.g.cs
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\View\MainView.g.cs
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\App.g.cs
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin_MarkupCompile.cache
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin_MarkupCompile.lref
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\View\MainView.baml
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin.g.resources
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin.Properties.Resources.resources
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin.csproj.GenerateResource.cache
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin.csproj.CoreCompileInputs.cache
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin.csproj.CopyComplete
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin.exe
+D:\c# prog new\LibAdmin\LibAdmin\obj\Debug\LibAdmin.pdb

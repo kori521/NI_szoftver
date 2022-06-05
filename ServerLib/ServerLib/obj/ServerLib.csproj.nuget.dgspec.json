@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kornél Molnár\\Documents\\GitHub\\NI_szoftver\\ServerLib\\ServerLib\\ServerLib.csproj": {}
+    "D:\\c# prog new\\ServerLib\\ServerLib\\ServerLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kornél Molnár\\Documents\\GitHub\\NI_szoftver\\ServerLib\\ServerLib\\ServerLib.csproj": {
+    "D:\\c# prog new\\ServerLib\\ServerLib\\ServerLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kornél Molnár\\Documents\\GitHub\\NI_szoftver\\ServerLib\\ServerLib\\ServerLib.csproj",
+        "projectUniqueName": "D:\\c# prog new\\ServerLib\\ServerLib\\ServerLib.csproj",
         "projectName": "ServerLib",
-        "projectPath": "C:\\Users\\Kornél Molnár\\Documents\\GitHub\\NI_szoftver\\ServerLib\\ServerLib\\ServerLib.csproj",
-        "packagesPath": "C:\\Users\\Kornél Molnár\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kornél Molnár\\Documents\\GitHub\\NI_szoftver\\ServerLib\\ServerLib\\obj\\",
+        "projectPath": "D:\\c# prog new\\ServerLib\\ServerLib\\ServerLib.csproj",
+        "packagesPath": "C:\\Users\\Mate\\.nuget\\packages\\",
+        "outputPath": "D:\\c# prog new\\ServerLib\\ServerLib\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kornél Molnár\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Mate\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -68,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

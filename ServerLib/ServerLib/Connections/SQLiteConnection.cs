@@ -26,8 +26,8 @@ namespace ServerLib.Connections
                 //var obj = new Library
                 //{
                 //    id = 2,
-                //    cim = "faszom",
-                //    iro = "kicsi",
+                //    cim = "lorem",
+                //    iro = "ipsum",
                 //    oldalszam = 600,
                 //};
                 //await _connection.InsertAsync(obj);

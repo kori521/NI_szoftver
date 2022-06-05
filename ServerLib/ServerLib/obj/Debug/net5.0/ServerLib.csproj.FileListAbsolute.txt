@@ -36,3 +36,5 @@ C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\ServerLib\ServerLib\obj\De
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\ServerLib\ServerLib\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\ServerLib\ServerLib\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\ServerLib\ServerLib\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\c# prog new\ServerLib\ServerLib\obj\Debug\net5.0\ServerLib.dll
+D:\c# prog new\ServerLib\ServerLib\obj\Debug\net5.0\ServerLib.pdb

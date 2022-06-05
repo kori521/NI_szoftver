@@ -10,7 +10,7 @@
       Background="Blue">
     
     <Grid>
-        <TextBlock Text="cigany is here"/>
+        <TextBlock Text="test textblock"/>
         <Button Content="click me" Command="{Binding testcommand}" Margin="134,101,205,159.6"/>
     </Grid>
 </Page>

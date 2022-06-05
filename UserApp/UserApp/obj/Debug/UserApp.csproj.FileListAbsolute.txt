@@ -34,3 +34,40 @@ C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\View\MyBookingsView.g.cs
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\View\BooksView.baml
 C:\Users\Kornél Molnár\Documents\GitHub\NI_szoftver\UserApp\UserApp\obj\Debug\View\MyBookingsView.baml
+D:\c# prog new\UserApp\UserApp\bin\Debug\UserApp.exe.config
+D:\c# prog new\UserApp\UserApp\bin\Debug\UserApp.exe
+D:\c# prog new\UserApp\UserApp\bin\Debug\UserApp.pdb
+D:\c# prog new\UserApp\UserApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c# prog new\UserApp\UserApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\c# prog new\UserApp\UserApp\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\c# prog new\UserApp\UserApp\bin\Debug\Prism.dll
+D:\c# prog new\UserApp\UserApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\c# prog new\UserApp\UserApp\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\c# prog new\UserApp\UserApp\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\c# prog new\UserApp\UserApp\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\c# prog new\UserApp\UserApp\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\c# prog new\UserApp\UserApp\bin\Debug\Prism.pdb
+D:\c# prog new\UserApp\UserApp\bin\Debug\Prism.xml
+D:\c# prog new\UserApp\UserApp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\c# prog new\UserApp\UserApp\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp.csproj.AssemblyReference.cache
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp.csproj.SuggestedBindingRedirects.cache
+D:\c# prog new\UserApp\UserApp\obj\Debug\MainWindow.g.cs
+D:\c# prog new\UserApp\UserApp\obj\Debug\View\BooksView.g.cs
+D:\c# prog new\UserApp\UserApp\obj\Debug\View\LibraryView.g.cs
+D:\c# prog new\UserApp\UserApp\obj\Debug\View\MyBookingsView.g.cs
+D:\c# prog new\UserApp\UserApp\obj\Debug\App.g.cs
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp_MarkupCompile.cache
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp_MarkupCompile.lref
+D:\c# prog new\UserApp\UserApp\obj\Debug\App.baml
+D:\c# prog new\UserApp\UserApp\obj\Debug\MainWindow.baml
+D:\c# prog new\UserApp\UserApp\obj\Debug\View\BooksView.baml
+D:\c# prog new\UserApp\UserApp\obj\Debug\View\LibraryView.baml
+D:\c# prog new\UserApp\UserApp\obj\Debug\View\MyBookingsView.baml
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp.g.resources
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp.Properties.Resources.resources
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp.csproj.GenerateResource.cache
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp.csproj.CoreCompileInputs.cache
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp.csproj.CopyComplete
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp.exe
+D:\c# prog new\UserApp\UserApp\obj\Debug\UserApp.pdb
